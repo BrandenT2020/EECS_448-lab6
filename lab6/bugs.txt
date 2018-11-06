@@ -1,0 +1,5 @@
+BUGS!
+
+1) isEmpty() always return true.
+
+2) addBack() does not remove the back of the list.
